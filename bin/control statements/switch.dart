@@ -1,5 +1,5 @@
 void main(){
-  int size=34;
+  int size=36;
   switch(size){
     case 28:
       print('size is 28');
@@ -13,6 +13,7 @@ void main(){
     case 34:
       print('size is 34');
     default:('size is not available');
+
 
   }
 }
