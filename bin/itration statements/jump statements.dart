@@ -3,7 +3,7 @@ void main(){
     print(i);
   }
   print('-------');
-  ///to break loop  at 1 to 5
+  ///to break loop  at 5
   for (int j=1; j<=10; j++){
     if (j==6){
       break;
